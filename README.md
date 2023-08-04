@@ -20,3 +20,9 @@ Este é um pequeno projeto em Flutter de lembretes.
 - Rode o device (emulador)
 - De play no app no arquivo principal ```main.dart```
 
+## Premissas assumidas
+
+- O Dia atual foi considerado um dia valido pois o resto do dia pode ser considerado futuro.
+- Foram feitas algumas alterações no layout porém o comportamento do app é o esperado
+
+
