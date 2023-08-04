@@ -63,7 +63,7 @@ class _HomeState extends State<Home> {
                   builder: (context) {
                     return SingleChildScrollView(
                       child: SizedBox(
-                        height: MediaQuery.of(context).size.height / 2,
+                        height: MediaQuery.of(context).size.height / 1.5,
                         width: MediaQuery.of(context).size.width,
                         child: Padding(
                           padding: const EdgeInsets.all(15.0),
