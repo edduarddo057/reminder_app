@@ -1,16 +1,22 @@
 # reminder_app
 
-A new Flutter project.
+Este é um pequeno projeto em Flutter de lembretes.
 
-## Getting Started
+## Como rodar ?
 
-This project is a starting point for a Flutter application.
+- Faça a instalação completa do android studio  e todas as dependencias necessarias como SDK para rodar um projeto flutter
+- Instale o nodejs
 
-A few resources to get you started if this is your first Flutter project:
+- Adicione os pluggins do Dart e do Flutter na sua IDE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ![image](https://github.com/edduarddo057/reminder_app/assets/54030641/c19890f5-b33b-4fad-b6c3-cddf76e0f29c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Crie um device para rodar o app com uma api 30 ou superior
+
+  ![image](https://github.com/edduarddo057/reminder_app/assets/54030641/d3e236b9-e1a4-4043-ba2e-442bcf78108d)
+
+- Faça o download do projeto
+- Abra o projeto no android studio
+- Rode o device (emulador)
+- De play no app no arquivo principal ```main.dart```
+
